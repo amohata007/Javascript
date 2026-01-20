@@ -1,1 +1,1 @@
-# Javascript Advanced Topics
+# Javascript Basic and Advanced Topics
