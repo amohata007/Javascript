@@ -1,4 +1,3 @@
-// result(1)(2)(3)(4)(5)();
 // Chained operations where you don’t know the number of inputs ahead of time.
 
 function result(a){
